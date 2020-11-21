@@ -1,0 +1,378 @@
+﻿[
+  {
+    "id": 1,
+    "make": "Acura"
+  },
+  {
+    "id": 2,
+    "make": "Ahrens-Fox"
+  },
+  {
+    "id": 3,
+    "make": "Alfa Romeo"
+  },
+  {
+    "id": 4,
+    "make": "AMO"
+  },
+  {
+    "id": 5,
+    "make": "Aston Martin"
+  },
+  {
+    "id": 6,
+    "make": "Audi"
+  },
+  {
+    "id": 7,
+    "make": "Bentley"
+  },
+  {
+    "id": 8,
+    "make": "BMW"
+  },
+  {
+    "id": 9,
+    "make": "Bugatti"
+  },
+  {
+    "id": 10,
+    "make": "Buick"
+  },
+  {
+    "id": 11,
+    "make": "Cadillac"
+  },
+  {
+    "id": 12,
+    "make": "Chevrolet"
+  },
+  {
+    "id": 13,
+    "make": "Chrysler"
+  },
+  {
+    "id": 14,
+    "make": "Citroen"
+  },
+  {
+    "id": 15,
+    "make": "Daihatsu"
+  },
+  {
+    "id": 16,
+    "make": "Dodge"
+  },
+  {
+    "id": 17,
+    "make": "Ferrari"
+  },
+  {
+    "id": 18,
+    "make": "Fiat"
+  },
+  {
+    "id": 19,
+    "make": "Ford"
+  },
+  {
+    "id": 20,
+    "make": "GAZ"
+  },
+  {
+    "id": 21,
+    "make": "Genesis"
+  },
+  {
+    "id": 22,
+    "make": "GMC"
+  },
+  {
+    "id": 23,
+    "make": "Honda"
+  },
+  {
+    "id": 24,
+    "make": "Horch"
+  },
+  {
+    "id": 25,
+    "make": "Hummer"
+  },
+  {
+    "id": 26,
+    "make": "Hyundai"
+  },
+  {
+    "id": 27,
+    "make": "Infiniti"
+  },
+  {
+    "id": 28,
+    "make": "Isuzu"
+  },
+  {
+    "id": 29,
+    "make": "Jaguar"
+  },
+  {
+    "id": 30,
+    "make": "Jeep"
+  },
+  {
+    "id": 31,
+    "make": "Kamaz"
+  },
+  {
+    "id": 32,
+    "make": "KAZ"
+  },
+  {
+    "id": 33,
+    "make": "Kia"
+  },
+  {
+    "id": 34,
+    "make": "KIM"
+  },
+  {
+    "id": 35,
+    "make": "KRAZ"
+  },
+  {
+    "id": 36,
+    "make": "Lada"
+  },
+  {
+    "id": 37,
+    "make": "Lamborgini"
+  },
+  {
+    "id": 38,
+    "make": "Lancia"
+  },
+  {
+    "id": 39,
+    "make": "Land Rover"
+  },
+  {
+    "id": 40,
+    "make": "Lexus"
+  },
+  {
+    "id": 41,
+    "make": "Lincoln"
+  },
+  {
+    "id": 42,
+    "make": "Lotus"
+  },
+  {
+    "id": 43,
+    "make": "LuAZ"
+  },
+  {
+    "id": 44,
+    "make": "Mack"
+  },
+  {
+    "id": 45,
+    "make": "Maxim"
+  },
+  {
+    "id": 46,
+    "make": "Maybach"
+  },
+  {
+    "id": 47,
+    "make": "Mazda"
+  },
+  {
+    "id": 48,
+    "make": "Mercedes-Benz"
+  },
+  {
+    "id": 49,
+    "make": "Mercury"
+  },
+  {
+    "id": 50,
+    "make": "Mini"
+  },
+  {
+    "id": 51,
+    "make": "Mitsubishi"
+  },
+  {
+    "id": 52,
+    "make": "Morgan"
+  },
+  {
+    "id": 53,
+    "make": "Moskvich"
+  },
+  {
+    "id": 54,
+    "make": "Nissan"
+  },
+  {
+    "id": 55,
+    "make": "NYSA"
+  },
+  {
+    "id": 56,
+    "make": "Opel"
+  },
+  {
+    "id": 57,
+    "make": "Other"
+  },
+  {
+    "id": 58,
+    "make": "PAZ"
+  },
+  {
+    "id": 59,
+    "make": "Peugeot"
+  },
+  {
+    "id": 60,
+    "make": "Plymouth"
+  },
+  {
+    "id": 61,
+    "make": "Pontiac"
+  },
+  {
+    "id": 62,
+    "make": "Porsche"
+  },
+  {
+    "id": 63,
+    "make": "RAF"
+  },
+  {
+    "id": 64,
+    "make": "Range Rover"
+  },
+  {
+    "id": 65,
+    "make": "Reliant"
+  },
+  {
+    "id": 66,
+    "make": "Renault"
+  },
+  {
+    "id": 67,
+    "make": "Rolls Royce"
+  },
+  {
+    "id": 68,
+    "make": "Saab"
+  },
+  {
+    "id": 69,
+    "make": "Saturn"
+  },
+  {
+    "id": 70,
+    "make": "Scion"
+  },
+  {
+    "id": 71,
+    "make": "Shelby"
+  },
+  {
+    "id": 72,
+    "make": "Simca"
+  },
+  {
+    "id": 73,
+    "make": "Skoda"
+  },
+  {
+    "id": 74,
+    "make": "Smart"
+  },
+  {
+    "id": 75,
+    "make": "SMZ"
+  },
+  {
+    "id": 76,
+    "make": "Subaru"
+  },
+  {
+    "id": 77,
+    "make": "Suzuki"
+  },
+  {
+    "id": 78,
+    "make": "Tata Motors"
+  },
+  {
+    "id": 79,
+    "make": "Tatra"
+  },
+  {
+    "id": 80,
+    "make": "Tempo"
+  },
+  {
+    "id": 81,
+    "make": "Tesla"
+  },
+  {
+    "id": 82,
+    "make": "Toyota"
+  },
+  {
+    "id": 83,
+    "make": "Trabant"
+  },
+  {
+    "id": 84,
+    "make": "Triumph"
+  },
+  {
+    "id": 85,
+    "make": "TX1"
+  },
+  {
+    "id": 86,
+    "make": "UAZ"
+  },
+  {
+    "id": 87,
+    "make": "Ural"
+  },
+  {
+    "id": 88,
+    "make": "Volkswagen"
+  },
+  {
+    "id": 89,
+    "make": "Volvo"
+  },
+  {
+    "id": 90,
+    "make": "Willis"
+  },
+  {
+    "id": 91,
+    "make": "ZAZ"
+  },
+  {
+    "id": 92,
+    "make": "ZIL"
+  },
+  {
+    "id": 93,
+    "make": "ZIS"
+  },
+  {
+    "id": 94,
+    "make": "ZUK"
+  }
+]

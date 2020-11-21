@@ -1,0 +1,46 @@
+﻿[
+  {
+    "id": 1,
+    "country": "Czech Republic"
+  },
+  {
+    "id": 2,
+    "country": "France"
+  },
+  {
+    "id": 3,
+    "country": "Germany"
+  },
+  {
+    "id": 4,
+    "country": "Italy"
+  },
+  {
+    "id": 5,
+    "country": "Japan"
+  },
+  {
+    "id": 6,
+    "country": "Poland"
+  },
+  {
+    "id": 7,
+    "country": "Russia"
+  },
+  {
+    "id": 8,
+    "country": "Soviet Union"
+  },
+  {
+    "id": 9,
+    "country": "Sweden"
+  },
+  {
+    "id": 10,
+    "country": "United Kingdom"
+  },
+  {
+    "id": 11,
+    "country": "USA"
+  }
+]
