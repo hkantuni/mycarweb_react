@@ -50,6 +50,18 @@ export function Home() {
               because their value appreciates over time.
             </p>
           </div>
+          <div className="skill-row">
+            <img className="picture18" src="/images/ferr.webp" alt="118" />
+            <Link className="scale-18-title" to="/pitstop">
+              1:18 Pit Stop
+            </Link>
+            <p className="discriprion">
+              In any racing series that permits scheduled pit stops, pit
+              strategy becomes one of the most important features of the race.
+              In this section, hand painted diorama of the Ferrari pit stop
+              figurines are presented in the scale of 1:18.
+            </p>
+          </div>
         </div>
         <div>
           <hr className="bottom-line" />

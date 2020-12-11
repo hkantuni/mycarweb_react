@@ -74,13 +74,13 @@ p {
 }
 
 .picture18 {
-  width: 25%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 
 .picture43 {
-  width: 25%;
+  width: 20%;
   float: right;
   margin-left: 30px;
   margin-bottom: 0;
@@ -191,8 +191,8 @@ p {
 
 .card-img-top {
   object-fit: cover;
-  width: 100%;
-  height: 100%;
+  width: 340px;
+  height: 255px;
 }
 .card-body {
   background-color: #e6eaef;

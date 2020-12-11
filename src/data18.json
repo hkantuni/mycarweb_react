@@ -5,6 +5,7 @@
     "model": "DB9, Convertible, 2004",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9846.webp",
+    "placeholder": "/images/18F/IMG_9846-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -13,6 +14,7 @@
     "model": "Q7",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9822.webp",
+    "placeholder": "/images/18F/IMG_9822-lowly.webp",
     "country": "Germany"
   },
   {
@@ -21,6 +23,7 @@
     "model": "A4",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9825.webp",
+    "placeholder": "/images/18F/IMG_9825-lowly.webp",
     "country": "Germany"
   },
   {
@@ -29,6 +32,7 @@
     "model": "A4 CABRIOLET 3.2 QUATTRO",
     "description": "Norev",
     "url": "/images/18F/IMG_9827.webp",
+    "placeholder": "/images/18F/IMG_9827-lowly.webp",
     "country": "Germany"
   },
   {
@@ -37,6 +41,7 @@
     "model": "A6",
     "description": "Norev",
     "url": "/images/18F/IMG_9829.webp",
+    "placeholder": "/images/18F/IMG_9829-lowly.webp",
     "country": "Germany"
   },
   {
@@ -45,6 +50,7 @@
     "model": "A3 Sportback",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9831.webp",
+    "placeholder": "/images/18F/IMG_9831-lowly.webp",
     "country": "Germany"
   },
   {
@@ -53,6 +59,7 @@
     "model": "TT",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9833.webp",
+    "placeholder": "/images/18F/IMG_9833-lowly.webp",
     "country": "Germany"
   },
   {
@@ -61,6 +68,7 @@
     "model": "Continental Cabrio",
     "description": "Unknown",
     "url": "/images/18F/bentleylights.webp",
+    "placeholder": "/images/18F/bentleylights-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -69,6 +77,7 @@
     "model": "Arnage T, 2002",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9836.webp",
+    "placeholder": "/images/18F/IMG_9836-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -77,6 +86,7 @@
     "model": "Continental GTC, Cabrio",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9840.webp",
+    "placeholder": "/images/18F/IMG_9840-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -85,6 +95,7 @@
     "model": "Bentley State Limousine, Queen Elisabeth, 2002",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9844.webp",
+    "placeholder": "/images/18F/IMG_9844-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -93,6 +104,7 @@
     "model": "Bentayga, 2016",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9838.webp",
+    "placeholder": "/images/18F/IMG_9838-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -101,6 +113,7 @@
     "model": "7 Series, E32, 1986",
     "description": "Minichamps",
     "url": "/images/18F/IMG_9910.webp",
+    "placeholder": "/images/18F/IMG_9910-lowly.webp",
     "country": "Germany"
   },
   {
@@ -109,6 +122,7 @@
     "model": "M3, E46",
     "description": "Autoart",
     "url": "/images/18F/IMG_9912.webp",
+    "placeholder": "/images/18F/IMG_9912-lowly.webp",
     "country": "Germany"
   },
   {
@@ -117,6 +131,7 @@
     "model": "745 i",
     "description": "Welly",
     "url": "/images/18F/IMG_9914.webp",
+    "placeholder": "/images/18F/IMG_9914-lowly.webp",
     "country": "Germany"
   },
   {
@@ -125,6 +140,7 @@
     "model": "3 Series, Coupe",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9916.webp",
+    "placeholder": "/images/18F/IMG_9916-lowly.webp",
     "country": "Germany"
   },
   {
@@ -133,6 +149,7 @@
     "model": "X5",
     "description": "Welly",
     "url": "/images/18F/IMG_9918.webp",
+    "placeholder": "/images/18F/IMG_9918-lowly.webp",
     "country": "Germany"
   },
   {
@@ -141,6 +158,7 @@
     "model": "X6",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9920.webp",
+    "placeholder": "/images/18F/IMG_9920-lowly.webp",
     "country": "Germany"
   },
   {
@@ -149,6 +167,7 @@
     "model": "X3",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9922.webp",
+    "placeholder": "/images/18F/IMG_9922-lowly.webp",
     "country": "Germany"
   },
   {
@@ -157,6 +176,7 @@
     "model": "Z4",
     "description": "Welly",
     "url": "/images/18F/IMG_9924.webp",
+    "placeholder": "/images/18F/IMG_9924-lowly.webp",
     "country": "Germany"
   },
   {
@@ -165,6 +185,7 @@
     "model": "2002 L",
     "description": "Autoart",
     "url": "/images/18F/IMG_9926.webp",
+    "placeholder": "/images/18F/IMG_9926-lowly.webp",
     "country": "Germany"
   },
   {
@@ -173,6 +194,7 @@
     "model": "6 Series",
     "description": "Norev",
     "url": "/images/18F/IMG_9930.webp",
+    "placeholder": "/images/18F/IMG_9930-lowly.webp",
     "country": "Germany"
   },
   {
@@ -181,6 +203,7 @@
     "model": "Chiron",
     "description": "Maisto",
     "url": "/images/18F/bugatti1.webp",
+    "placeholder": "/images/18F/bugatti1-lowly.webp",
     "country": "Italy"
   },
   {
@@ -189,6 +212,7 @@
     "model": "Divo",
     "description": "Maisto",
     "url": "/images/18F/bugatti2.webp",
+    "placeholder": "/images/18F/bugatti2-lowly.webp",
     "country": "Italy"
   },
   {
@@ -197,6 +221,7 @@
     "model": "EB 16.4 Veyron",
     "description": "Autoart",
     "url": "/images/18F/IMG_9932.webp",
+    "placeholder": "/images/18F/IMG_9932-lowly.webp",
     "country": "Italy"
   },
   {
@@ -205,6 +230,7 @@
     "model": "ATS-L, 2016",
     "description": "Dealers Edition",
     "url": "/images/18F/IMG_9649.webp",
+    "placeholder": "/images/18F/IMG_9649-lowly.webp",
     "country": "USA"
   },
   {
@@ -213,6 +239,7 @@
     "model": "CT6, 2016",
     "description": "Dealers Edition",
     "url": "/images/18F/IMG_9647.webp",
+    "placeholder": "/images/18F/IMG_9647-lowly.webp",
     "country": "USA"
   },
   {
@@ -221,6 +248,7 @@
     "model": "300 C, 60th Norev Anniversary",
     "description": "Norev",
     "url": "/images/18F/chysler300c.webp",
+    "placeholder": "/images/18F/chysler300c-lowly.webp",
     "country": "USA"
   },
   {
@@ -229,6 +257,7 @@
     "model": "GT Cruiser",
     "description": "Motormax",
     "url": "/images/18F/gtcruiser.webp",
+    "placeholder": "/images/18F/gtcruiser-lowly.webp",
     "country": "USA"
   },
   {
@@ -237,6 +266,7 @@
     "model": "15CV 6 Cyl, 1952",
     "description": "Maisto",
     "url": "/images/18F/IMG_9994.webp",
+    "placeholder": "/images/18F/IMG_9994-lowly.webp",
     "country": "France"
   },
   {
@@ -245,6 +275,7 @@
     "model": "Viper GTS",
     "description": "Burago",
     "url": "/images/18F/viper.webp",
+    "placeholder": "/images/18F/viper-lowly.webp",
     "country": "USA"
   },
   {
@@ -253,6 +284,7 @@
     "model": "Viper SRT-10, 2003",
     "description": "Welly",
     "url": "/images/18F/IMG_9326.webp",
+    "placeholder": "/images/18F/IMG_9326-lowly.webp",
     "country": "USA"
   },
   {
@@ -261,6 +293,7 @@
     "model": "Ram 1500,  Quad Short Box, 2002",
     "description": "Welly",
     "url": "/images/18F/IMG_9331.webp",
+    "placeholder": "/images/18F/IMG_9331-lowly.webp",
     "country": "USA"
   },
   {
@@ -269,6 +302,7 @@
     "model": "FXX K",
     "description": "Maisto",
     "url": "/images/18F/ferrari.webp",
+    "placeholder": "/images/18F/ferrari-lowly.webp",
     "country": "Italy"
   },
   {
@@ -277,6 +311,7 @@
     "model": "F50, Hard Top, 1995",
     "description": "Burago",
     "url": "/images/18F/IMG_9808.webp",
+    "placeholder": "/images/18F/IMG_9808-lowly.webp",
     "country": "Italy"
   },
   {
@@ -285,6 +320,7 @@
     "model": "F50, 1995",
     "description": "Burago",
     "url": "/images/18F/IMG_9812.webp",
+    "placeholder": "/images/18F/IMG_9812-lowly.webp",
     "country": "Italy"
   },
   {
@@ -293,6 +329,7 @@
     "model": "488 GTB",
     "description": "Maisto",
     "url": "/images/18F/IMG_9810.webp",
+    "placeholder": "/images/18F/IMG_9810-lowly.webp",
     "country": "Italy"
   },
   {
@@ -301,6 +338,7 @@
     "model": "Enzo, 2002",
     "description": "Hot Wheels",
     "url": "/images/18F/IMG_9813.webp",
+    "placeholder": "/images/18F/IMG_9813-lowly.webp",
     "country": "Italy"
   },
   {
@@ -309,6 +347,7 @@
     "model": "F1 248, Michael Schumacher, 2006",
     "description": "Hot Wheels",
     "url": "/images/18F/IMG_ferrari.webp",
+    "placeholder": "/images/18F/IMG_ferrari-lowly.webp",
     "country": "Italy"
   },
   {
@@ -317,6 +356,7 @@
     "model": "F-150",
     "description": "American Muscle, ERTL, Harley-Davidson SuperCrew 2003",
     "url": "/images/18F/f150.webp",
+    "placeholder": "/images/18F/f150-lowly.webp",
     "country": "USA"
   },
   {
@@ -325,6 +365,7 @@
     "model": "Expedition",
     "description": "Eddie Bauer, UT Models",
     "url": "/images/18F/fordexpedition.webp",
+    "placeholder": "/images/18F/fordexpedition-lowly.webp",
     "country": "USA"
   },
   {
@@ -333,6 +374,7 @@
     "model": "Explorer",
     "description": "Police Cruiser",
     "url": "/images/18F/fordpolice.webp",
+    "placeholder": "/images/18F/fordpolice-lowly.webp",
     "country": "USA"
   },
   {
@@ -341,6 +383,7 @@
     "model": "Mustang",
     "description": "Unknown",
     "url": "/images/18F/mustang.webp",
+    "placeholder": "/images/18F/mustang-lowly.webp",
     "country": "USA"
   },
   {
@@ -349,6 +392,7 @@
     "model": "F-350 Lariat, 2004",
     "description": "Maisto",
     "url": "/images/18F/IMG_9333.webp",
+    "placeholder": "/images/18F/IMG_9333-lowly.webp",
     "country": "USA"
   },
   {
@@ -357,6 +401,7 @@
     "model": "Street KA, 2003",
     "description": "Welly",
     "url": "/images/18F/IMG_9334.webp",
+    "placeholder": "/images/18F/IMG_9334-lowly.webp",
     "country": "USA"
   },
   {
@@ -365,6 +410,7 @@
     "model": "Mustang, 1969",
     "description": "Welly",
     "url": "/images/18F/IMG_9336.webp",
+    "placeholder": "/images/18F/IMG_9336-lowly.webp",
     "country": "USA"
   },
   {
@@ -373,6 +419,7 @@
     "model": "F-100",
     "description": "Welly",
     "url": "/images/18F/IMG_0001.webp",
+    "placeholder": "/images/18F/IMG_0001-lowly.webp",
     "country": "USA"
   },
   {
@@ -381,6 +428,7 @@
     "model": "Volga Gaz 22V Kombi, 1967",
     "description": "IST Models",
     "url": "/images/18F/IMG_9338.webp",
+    "placeholder": "/images/18F/IMG_9338-lowly.webp",
     "country": "Soviet Union"
   },
   {
@@ -389,6 +437,7 @@
     "model": "Volga Gaz 21, 1969",
     "description": "IST Models",
     "url": "/images/18F/IMG_9341.webp",
+    "placeholder": "/images/18F/IMG_9341-lowly.webp",
     "country": "Soviet Union"
   },
   {
@@ -397,6 +446,7 @@
     "model": "Volga Gaz 24, 1977",
     "description": "Model Car Group",
     "url": "/images/18F/IMG_9352.webp",
+    "placeholder": "/images/18F/IMG_9352-lowly.webp",
     "country": "Soviet Union"
   },
   {
@@ -405,6 +455,7 @@
     "model": "Yukon Denali",
     "description": "Welli",
     "url": "/images/18F/denali.webp",
+    "placeholder": "/images/18F/denali-lowly.webp",
     "country": "USA"
   },
   {
@@ -413,6 +464,7 @@
     "model": "851 Pullman, 1935",
     "description": "Ricko",
     "url": "/images/18F/IMG_9991.webp",
+    "placeholder": "/images/18F/IMG_9991-lowly.webp",
     "country": "Germany"
   },
   {
@@ -421,6 +473,7 @@
     "model": "H3",
     "description": "Hot Wheels",
     "url": "/images/18F/IMG_9658.webp",
+    "placeholder": "/images/18F/IMG_9658-lowly.webp",
     "country": "USA"
   },
   {
@@ -429,6 +482,7 @@
     "model": "H1",
     "description": "Maisto",
     "url": "/images/18F/IMG_9661.webp",
+    "placeholder": "/images/18F/IMG_9661-lowly.webp",
     "country": "USA"
   },
   {
@@ -437,6 +491,7 @@
     "model": "H2",
     "description": "DUB City",
     "url": "/images/18F/IMG_9662.webp",
+    "placeholder": "/images/18F/IMG_9662-lowly.webp",
     "country": "USA"
   },
   {
@@ -445,6 +500,7 @@
     "model": "H1, 2000, Cor - Libermann",
     "description": "Exoto",
     "url": "/images/18F/IMG_9665.webp",
+    "placeholder": "/images/18F/IMG_9665-lowly.webp",
     "country": "USA"
   },
   {
@@ -453,6 +509,7 @@
     "model": "Grand Cherokee, 2005",
     "description": "Maisto",
     "url": "/images/18F/jeepgcblack.webp",
+    "placeholder": "/images/18F/jeepgcblack-lowly.webp",
     "country": "USA"
   },
   {
@@ -461,6 +518,7 @@
     "model": "Grand Cherokee, Off Road Devision, 1999",
     "description": "Autoart",
     "url": "/images/18F/IMG_9248.webp",
+    "placeholder": "/images/18F/IMG_9248-lowly.webp",
     "country": "USA"
   },
   {
@@ -469,6 +527,7 @@
     "model": "Grand Cherokee, Limited",
     "description": "Majorette",
     "url": "/images/18F/IMG_9251.webp",
+    "placeholder": "/images/18F/IMG_9251-lowly.webp",
     "country": "USA"
   },
   {
@@ -477,6 +536,7 @@
     "model": "Grand Wagoneer, Millenium, 1989",
     "description": "Autoart",
     "url": "/images/18F/IMG_9257.webp",
+    "placeholder": "/images/18F/IMG_9257-lowly.webp",
     "country": "USA"
   },
   {
@@ -485,6 +545,7 @@
     "model": "Wrangler, Rubikon",
     "description": "Maisto",
     "url": "/images/18F/IMG_9260.webp",
+    "placeholder": "/images/18F/IMG_9260-lowly.webp",
     "country": "USA"
   },
   {
@@ -493,6 +554,7 @@
     "model": "Wrangler, Sahara",
     "description": "Maisto",
     "url": "/images/18F/IMG_9263.webp",
+    "placeholder": "/images/18F/IMG_9263-lowly.webp",
     "country": "USA"
   },
   {
@@ -501,6 +563,7 @@
     "model": "Lada 1200, Vaz 2101, 1971, USSR Police",
     "description": "IST Models",
     "url": "/images/18F/IMG_9346.webp",
+    "placeholder": "/images/18F/IMG_9346-lowly.webp",
     "country": "Soviet Union"
   },
   {
@@ -509,6 +572,7 @@
     "model": "Lada 1200, Vaz 2101, 1971",
     "description": "IST Models",
     "url": "/images/18F/IMG_9349.webp",
+    "placeholder": "/images/18F/IMG_9349-lowly.webp",
     "country": "Soviet Union"
   },
   {
@@ -517,6 +581,7 @@
     "model": "Courlach LP400",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9851.webp",
+    "placeholder": "/images/18F/IMG_9851-lowly.webp",
     "country": "Italy"
   },
   {
@@ -525,6 +590,7 @@
     "model": "Diablo",
     "description": "Tonka",
     "url": "/images/18F/IMG_9857.webp",
+    "placeholder": "/images/18F/IMG_9857-lowly.webp",
     "country": "Italy"
   },
   {
@@ -533,6 +599,7 @@
     "model": "Centenario",
     "description": "Maisto",
     "url": "/images/18F/IMG_9849.webp",
+    "placeholder": "/images/18F/IMG_9849-lowly.webp",
     "country": "Italy"
   },
   {
@@ -541,6 +608,7 @@
     "model": "Unknown",
     "description": "Maisto",
     "url": "/images/18F/lambo.webp",
+    "placeholder": "/images/18F/lambo-lowly.webp",
     "country": "Italy"
   },
   {
@@ -549,6 +617,7 @@
     "model": "Defender 110, Camel throphy",
     "description": "Almost Real",
     "url": "/images/18F/cameltrophy.webp",
+    "placeholder": "/images/18F/cameltrophy-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -557,6 +626,7 @@
     "model": "Freelander",
     "description": "ERTL",
     "url": "/images/18F/freelanderblack.webp",
+    "placeholder": "/images/18F/freelanderblack-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -565,6 +635,7 @@
     "model": "Freelander",
     "description": "ERTL",
     "url": "/images/18F/freelandergreen.webp",
+    "placeholder": "/images/18F/freelandergreen-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -573,6 +644,7 @@
     "model": "Discovery, 2004",
     "description": "Motormax",
     "url": "/images/18F/rrmotormax.webp",
+    "placeholder": "/images/18F/rrmotormax-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -581,6 +653,7 @@
     "model": "Defender 110, Doublecab pickup",
     "description": "Universal Hobbies",
     "url": "/images/18F/rrpickup.webp",
+    "placeholder": "/images/18F/rrpickup-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -589,6 +662,7 @@
     "model": "ES 350",
     "description": "Dealer Edition 2017",
     "url": "/images/18F/es3502017.webp",
+    "placeholder": "/images/18F/es3502017-lowly.webp",
     "country": "Japan"
   },
   {
@@ -597,6 +671,7 @@
     "model": "ES 350",
     "description": "Dealer Edition 2020",
     "url": "/images/18F/es3502020.webp",
+    "placeholder": "/images/18F/es3502020-lowly.webp",
     "country": "Japan"
   },
   {
@@ -605,6 +680,7 @@
     "model": "LS 460",
     "description": "Norev",
     "url": "/images/18F/IMG_9276.webp",
+    "placeholder": "/images/18F/IMG_9276-lowly.webp",
     "country": "Japan"
   },
   {
@@ -613,6 +689,7 @@
     "model": "LS 400, 1989",
     "description": "Road Legends",
     "url": "/images/18F/IMG_9278.webp",
+    "placeholder": "/images/18F/IMG_9278-lowly.webp",
     "country": "Japan"
   },
   {
@@ -621,6 +698,7 @@
     "model": "ES350, 2017",
     "description": "Autoart",
     "url": "/images/18F/IMG_9279.webp",
+    "placeholder": "/images/18F/IMG_9279-lowly.webp",
     "country": "Japan"
   },
   {
@@ -629,6 +707,7 @@
     "model": "ES350, 2017",
     "description": "Autoart",
     "url": "/images/18F/IMG_9281.webp",
+    "placeholder": "/images/18F/IMG_9281-lowly.webp",
     "country": "Japan"
   },
   {
@@ -637,6 +716,7 @@
     "model": "LFA",
     "description": "Autoart",
     "url": "/images/18F/IMG_9285.webp",
+    "placeholder": "/images/18F/IMG_9285-lowly.webp",
     "country": "Japan"
   },
   {
@@ -645,6 +725,7 @@
     "model": "Navigator",
     "description": "Autoart",
     "url": "/images/18F/navigator.webp",
+    "placeholder": "/images/18F/navigator-lowly.webp",
     "country": "USA"
   },
   {
@@ -653,6 +734,7 @@
     "model": "S 650 Cabrio",
     "description": "Norev",
     "url": "/images/18F/maybachcabrio.webp",
+    "placeholder": "/images/18F/maybachcabrio-lowly.webp",
     "country": "Germany"
   },
   {
@@ -661,6 +743,7 @@
     "model": "62 WB",
     "description": "2003, Autoart",
     "url": "/images/18F/maybachlong.webp",
+    "placeholder": "/images/18F/maybachlong-lowly.webp",
     "country": "Germany"
   },
   {
@@ -669,6 +752,7 @@
     "model": "57 WB",
     "description": "2003, Autoart",
     "url": "/images/18F/maybachshort.webp",
+    "placeholder": "/images/18F/maybachshort-lowly.webp",
     "country": "Germany"
   },
   {
@@ -677,6 +761,7 @@
     "model": "GL 450",
     "description": "2005 Cunbanitsilver, X164, Minichamps",
     "url": "/images/18F/gl.webp",
+    "placeholder": "/images/18F/gl-lowly.webp",
     "country": "Germany"
   },
   {
@@ -685,6 +770,7 @@
     "model": 600,
     "description": "Unknown",
     "url": "/images/18F/mb600.webp",
+    "placeholder": "/images/18F/mb600-lowly.webp",
     "country": "Germany"
   },
   {
@@ -693,6 +779,7 @@
     "model": "C Klasse",
     "description": "Autoart",
     "url": "/images/18F/mbc.webp",
+    "placeholder": "/images/18F/mbc-lowly.webp",
     "country": "Germany"
   },
   {
@@ -701,6 +788,7 @@
     "model": "2002 Estate",
     "description": "S211 Kyosho, Malanitblack",
     "url": "/images/18F/mbet.webp",
+    "placeholder": "/images/18F/mbet-lowly.webp",
     "country": "Germany"
   },
   {
@@ -709,6 +797,7 @@
     "model": "SLK 350",
     "description": "Welly",
     "url": "/images/18F/mbslk.webp",
+    "placeholder": "/images/18F/mbslk-lowly.webp",
     "country": "Germany"
   },
   {
@@ -717,6 +806,7 @@
     "model": "SLR McLaren",
     "description": "Maisto",
     "url": "/images/18F/mclaren.webp",
+    "placeholder": "/images/18F/mclaren-lowly.webp",
     "country": "Germany"
   },
   {
@@ -725,6 +815,7 @@
     "model": "ML",
     "description": "Unknown",
     "url": "/images/18F/ml.webp",
+    "placeholder": "/images/18F/ml-lowly.webp",
     "country": "Germany"
   },
   {
@@ -733,6 +824,7 @@
     "model": "ML",
     "description": "Maisto",
     "url": "/images/18F/mlold.webp",
+    "placeholder": "/images/18F/mlold-lowly.webp",
     "country": "Germany"
   },
   {
@@ -741,6 +833,7 @@
     "model": "Maybach S 600 Pullman Limo",
     "description": "Autoart",
     "url": "/images/18F/s_limo_new.webp",
+    "placeholder": "/images/18F/s_limo_new-lowly.webp",
     "country": "Germany"
   },
   {
@@ -749,6 +842,7 @@
     "model": "S-Class S600 Limousine 2004",
     "description": "Sun-Star",
     "url": "/images/18F/s_limo.webp",
+    "placeholder": "/images/18F/s_limo-lowly.webp",
     "country": "Germany"
   },
   {
@@ -757,6 +851,7 @@
     "model": "300 SL",
     "description": "Burago",
     "url": "/images/18F/sl300.webp",
+    "placeholder": "/images/18F/sl300-lowly.webp",
     "country": "Germany"
   },
   {
@@ -765,6 +860,7 @@
     "model": "170S, 1950",
     "description": "Signature Models",
     "url": "/images/18F/mb70.webp",
+    "placeholder": "/images/18F/mb70-lowly.webp",
     "country": "Germany"
   },
   {
@@ -773,6 +869,7 @@
     "model": "190E 2.0",
     "description": "Autoart",
     "url": "/images/18F/mb190e.webp",
+    "placeholder": "/images/18F/mb190e-lowly.webp",
     "country": "Germany"
   },
   {
@@ -781,6 +878,7 @@
     "model": "230 E",
     "description": "Revell",
     "url": "/images/18F/mb230e.webp",
+    "placeholder": "/images/18F/mb230e-lowly.webp",
     "country": "Germany"
   },
   {
@@ -789,6 +887,7 @@
     "model": "S600 Landaulet, 1966",
     "description": "Sun-Star",
     "url": "/images/18F/mb600landoulet.webp",
+    "placeholder": "/images/18F/mb600landoulet-lowly.webp",
     "country": "Germany"
   },
   {
@@ -797,6 +896,7 @@
     "model": "G Klasse",
     "description": "Autoart",
     "url": "/images/18F/mbg.webp",
+    "placeholder": "/images/18F/mbg-lowly.webp",
     "country": "Germany"
   },
   {
@@ -805,6 +905,7 @@
     "model": "GLK Class",
     "description": "Minichamps",
     "url": "/images/18F/mbglk.webp",
+    "placeholder": "/images/18F/mbglk-lowly.webp",
     "country": "Germany"
   },
   {
@@ -813,6 +914,7 @@
     "model": "ML 55, AMG",
     "description": "Maisto",
     "url": "/images/18F/mbml55.webp",
+    "placeholder": "/images/18F/mbml55-lowly.webp",
     "country": "Germany"
   },
   {
@@ -821,6 +923,7 @@
     "model": "M Klasse, 2005",
     "description": "Autoart",
     "url": "/images/18F/mbmlblue.webp",
+    "placeholder": "/images/18F/mbmlblue-lowly.webp",
     "country": "Germany"
   },
   {
@@ -829,6 +932,7 @@
     "model": "770K Pullman, 1938",
     "description": "Signature Models",
     "url": "/images/18F/mboldblack.webp",
+    "placeholder": "/images/18F/mboldblack-lowly.webp",
     "country": "Germany"
   },
   {
@@ -837,6 +941,7 @@
     "model": "R-Class",
     "description": "Minichamps",
     "url": "/images/18F/mbr.webp",
+    "placeholder": "/images/18F/mbr-lowly.webp",
     "country": "Germany"
   },
   {
@@ -845,6 +950,7 @@
     "model": "S Klasse, 2005",
     "description": "Autoart",
     "url": "/images/18F/mbs.webp",
+    "placeholder": "/images/18F/mbs-lowly.webp",
     "country": "Germany"
   },
   {
@@ -853,6 +959,7 @@
     "model": "S600 Pullman, 1966",
     "description": "Sun-Star",
     "url": "/images/18F/mbs600pulman.webp",
+    "placeholder": "/images/18F/mbs600pulman-lowly.webp",
     "country": "Germany"
   },
   {
@@ -861,6 +968,7 @@
     "model": "500 K, Special Roadster, 1938",
     "description": "Maisto",
     "url": "/images/18F/mbs500k.webp",
+    "placeholder": "/images/18F/mbs500k-lowly.webp",
     "country": "Germany"
   },
   {
@@ -869,6 +977,7 @@
     "model": "White Top",
     "description": "Welly",
     "url": "/images/18F/mini.webp",
+    "placeholder": "/images/18F/mini-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -877,6 +986,7 @@
     "model": "Pajero EVO, Off Road Devision",
     "description": "Autoart",
     "url": "/images/18F/IMG_9651.webp",
+    "placeholder": "/images/18F/IMG_9651-lowly.webp",
     "country": "Japan"
   },
   {
@@ -885,6 +995,7 @@
     "model": "Pajero LWB, 1998",
     "description": "Autoart",
     "url": "/images/18F/IMG_9653.webp",
+    "placeholder": "/images/18F/IMG_9653-lowly.webp",
     "country": "Japan"
   },
   {
@@ -893,6 +1004,7 @@
     "model": "350Z, 2003",
     "description": "Welly",
     "url": "/images/18F/IMG_9656.webp",
+    "placeholder": "/images/18F/IMG_9656-lowly.webp",
     "country": "Japan"
   },
   {
@@ -901,6 +1013,7 @@
     "model": "Car Trailer",
     "description": "GMP",
     "url": "/images/18F/IMG_9485.webp",
+    "placeholder": "/images/18F/IMG_9485-lowly.webp",
     "country": "USA"
   },
   {
@@ -909,6 +1022,7 @@
     "model": "Polaris Jet Ski",
     "description": "Ertl",
     "url": "/images/18F/IMG_9487.webp",
+    "placeholder": "/images/18F/IMG_9487-lowly.webp",
     "country": "USA"
   },
   {
@@ -917,6 +1031,7 @@
     "model": "Horse Trailer",
     "description": "Motor City",
     "url": "/images/18F/IMG_9220.webp",
+    "placeholder": "/images/18F/IMG_9220-lowly.webp",
     "country": "USA"
   },
   {
@@ -925,6 +1040,7 @@
     "model": "206 cc",
     "description": "Welly",
     "url": "/images/18F/IMG_9479.webp",
+    "placeholder": "/images/18F/IMG_9479-lowly.webp",
     "country": "France"
   },
   {
@@ -933,6 +1049,7 @@
     "model": "Carerra 911",
     "description": "Burago",
     "url": "/images/18F/IMG_9817.webp",
+    "placeholder": "/images/18F/IMG_9817-lowly.webp",
     "country": "Germany"
   },
   {
@@ -941,6 +1058,7 @@
     "model": "Cayenne S",
     "description": "Maisto",
     "url": "/images/18F/IMG_9820.webp",
+    "placeholder": "/images/18F/IMG_9820-lowly.webp",
     "country": "Germany"
   },
   {
@@ -949,6 +1067,7 @@
     "model": "Boxter",
     "description": "Autoart",
     "url": "/images/18F/IMG_9824.webp",
+    "placeholder": "/images/18F/IMG_9824-lowly.webp",
     "country": "Germany"
   },
   {
@@ -957,6 +1076,7 @@
     "model": "L405",
     "description": "GT Models, 2014",
     "url": "/images/18F/rangerover.webp",
+    "placeholder": "/images/18F/rangerover-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -965,6 +1085,7 @@
     "model": 2003,
     "description": "Welly",
     "url": "/images/18F/rrblack.webp",
+    "placeholder": "/images/18F/rrblack-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -973,6 +1094,7 @@
     "model": "Evoque",
     "description": "Kyosho",
     "url": "/images/18F/RRevoque.webp",
+    "placeholder": "/images/18F/RRevoque-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -981,6 +1103,7 @@
     "model": "Sport",
     "description": "Maisto",
     "url": "/images/18F/rrorangewelly.webp",
+    "placeholder": "/images/18F/rrorangewelly-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -989,6 +1112,7 @@
     "model": "4.6 HSE",
     "description": "Autoart",
     "url": "/images/18F/rrselver.webp",
+    "placeholder": "/images/18F/rrselver-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -997,6 +1121,7 @@
     "model": "L405, 2013",
     "description": "GT Autos",
     "url": "/images/18F/rrwhite2013.webp",
+    "placeholder": "/images/18F/rrwhite2013-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -1005,6 +1130,7 @@
     "model": "Phantom VI",
     "description": "Royal Limousine Queen Elizabeth II 1968",
     "url": "/images/18F/queenlimo.webp",
+    "placeholder": "/images/18F/queenlimo-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -1013,6 +1139,7 @@
     "model": "Phantom EWB Limo, 2012",
     "description": "Kyosho",
     "url": "/images/18F/IMG_9842.webp",
+    "placeholder": "/images/18F/IMG_9842-lowly.webp",
     "country": "United Kingdom"
   },
   {
@@ -1021,6 +1148,7 @@
     "model": "VUE",
     "description": "Autoart",
     "url": "/images/18F/vue.webp",
+    "placeholder": "/images/18F/vue-lowly.webp",
     "country": "USA"
   },
   {
@@ -1029,6 +1157,7 @@
     "model": "Cobra 427S/C",
     "description": "Road Fough",
     "url": "/images/18F/IMG_9928.webp",
+    "placeholder": "/images/18F/IMG_9928-lowly.webp",
     "country": "USA"
   },
   {
@@ -1037,6 +1166,7 @@
     "model": "Model 3",
     "description": "Dealer Edition",
     "url": "/images/18F/tesla3.webp",
+    "placeholder": "/images/18F/tesla3-lowly.webp",
     "country": "USA"
   },
   {
@@ -1045,6 +1175,7 @@
     "model": "Roadster",
     "description": "Dealer Edition",
     "url": "/images/18F/teslaroadster.webp",
+    "placeholder": "/images/18F/teslaroadster-lowly.webp",
     "country": "USA"
   },
   {
@@ -1053,6 +1184,7 @@
     "model": "Model S",
     "description": "Dealer Edition",
     "url": "/images/18F/teslas1.webp",
+    "placeholder": "/images/18F/teslas1-lowly.webp",
     "country": "USA"
   },
   {
@@ -1061,6 +1193,7 @@
     "model": "Model S",
     "description": "Dealer Edition",
     "url": "/images/18F/teslas2.webp",
+    "placeholder": "/images/18F/teslas2-lowly.webp",
     "country": "USA"
   },
   {
@@ -1069,6 +1202,7 @@
     "model": "Model X",
     "description": "Dealer Edition",
     "url": "/images/18F/teslax.webp",
+    "placeholder": "/images/18F/teslax-lowly.webp",
     "country": "USA"
   },
   {
@@ -1077,6 +1211,7 @@
     "model": "Avalon",
     "description": "Dealer Edition",
     "url": "/images/18F/avalon.webp",
+    "placeholder": "/images/18F/avalon-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1085,6 +1220,7 @@
     "model": "Camry",
     "description": "Dealer Edition",
     "url": "/images/18F/camry.webp",
+    "placeholder": "/images/18F/camry-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1093,6 +1229,7 @@
     "model": "Highlander",
     "description": "Dealer Edition",
     "url": "/images/18F/highlander.webp",
+    "placeholder": "/images/18F/highlander-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1101,6 +1238,7 @@
     "model": "RAV 4",
     "description": "Dealer Edition",
     "url": "/images/18F/rav4.webp",
+    "placeholder": "/images/18F/rav4-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1109,6 +1247,7 @@
     "model": "LandCruiser 100, FAW",
     "description": "Dealers Edition",
     "url": "/images/18F/IMG_9267.webp",
+    "placeholder": "/images/18F/IMG_9267-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1117,6 +1256,7 @@
     "model": "LandCruiser 100, Prado, FAW",
     "description": "Dealers Edition",
     "url": "/images/18F/IMG_9269.webp",
+    "placeholder": "/images/18F/IMG_9269-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1125,6 +1265,7 @@
     "model": "Harrier, Off Road Devision",
     "description": "Autoart",
     "url": "/images/18F/IMG_9272.webp",
+    "placeholder": "/images/18F/IMG_9272-lowly.webp",
     "country": "Japan"
   },
   {
@@ -1133,6 +1274,7 @@
     "model": "XC90",
     "description": "Welly",
     "url": "/images/18F/IMG_9477.webp",
+    "placeholder": "/images/18F/IMG_9477-lowly.webp",
     "country": "Sweden"
   },
   {
@@ -1141,6 +1283,7 @@
     "model": "Tuareg",
     "description": "Welly",
     "url": "/images/18F/IMG_9467.webp",
+    "placeholder": "/images/18F/IMG_9467-lowly.webp",
     "country": "Germany"
   },
   {
@@ -1149,6 +1292,7 @@
     "model": "New Beetle",
     "description": "Welly",
     "url": "/images/18F/IMG_9469.webp",
+    "placeholder": "/images/18F/IMG_9469-lowly.webp",
     "country": "Germany"
   },
   {
@@ -1157,6 +1301,7 @@
     "model": "Beetile",
     "description": "Road Signature",
     "url": "/images/18F/IMG_9471.webp",
+    "placeholder": "/images/18F/IMG_9471-lowly.webp",
     "country": "Germany"
   },
   {
@@ -1165,6 +1310,7 @@
     "model": "Bus T1",
     "description": "Welly",
     "url": "/images/18F/IMG_9473.webp",
+    "placeholder": "/images/18F/IMG_9473-lowly.webp",
     "country": "Germany"
   },
   {
@@ -1173,6 +1319,7 @@
     "model": "Bus T3",
     "description": "KK",
     "url": "/images/18F/IMG_9475.webp",
+    "placeholder": "/images/18F/IMG_9475-lowly.webp",
     "country": "Germany"
   }
 ]

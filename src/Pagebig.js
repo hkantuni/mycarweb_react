@@ -118,6 +118,7 @@ export function Pagebig() {
               model={item.model}
               description={item.description}
               url={item.url}
+              placeholder={item.placeholder}
             />
           ))}
         </div>
